@@ -1,6 +1,6 @@
 {
   "name": "@ax/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "ShineShao <xiaoshaoqq@gmail.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "dependencies": {
     "rxjs": "^7.3.0"
   },
-  "gitHead": "e22bd32326ee5c6e2fbb82bb4a78194d8b2b6851"
+  "gitHead": "36a32e090078b6a25c25f0f8eb768552adfd925a"
 }

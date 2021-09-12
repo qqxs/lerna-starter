@@ -1,6 +1,6 @@
 {
   "name": "@ax/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "ShineShao <xiaoshaoqq@gmail.com>",
   "homepage": "",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "e22bd32326ee5c6e2fbb82bb4a78194d8b2b6851"
 }

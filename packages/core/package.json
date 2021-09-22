@@ -1,6 +1,6 @@
 {
   "name": "@ak2021/core",
-  "version": "0.1.1-alpha.0",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "ShineShao <xiaoshaoqq@gmail.com>",
   "homepage": "",
@@ -13,8 +13,11 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "15d25c32cea3374dfc491573ba7b5b155311124c"
+  "gitHead": "0dfa84802494b7568af6016b193872b6a101c128"
 }

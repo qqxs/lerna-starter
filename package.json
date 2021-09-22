@@ -1,5 +1,5 @@
 {
-  "name": "@ax/lerna-starter",
+  "name": "lerna-starter",
   "version": "1.0.0",
   "description": "### install lerna",
   "main": "index.js",
